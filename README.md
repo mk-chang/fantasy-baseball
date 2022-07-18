@@ -1,2 +1,2 @@
-# fantasy-baseball-ML
-## Data Science + MLB + Fantasy Baseball 
+# fantasy-baseball
+Exploring different strategies in fantasy baseball category leagues
